@@ -1,10 +1,27 @@
 body{
-background-color:#1D4221,
-color:white
-font-family:"bai-jamjure",sans-serif;
-display:flex
- justify-content: center, --> centralizados os elementos horizontalmente 
- aligh-items: center;
-height:700 px,
-margin:0
-}
+    background-color:#1D4221,
+    color:white
+    font-family:"bai-jamjure",sans-serif;
+    display:flex
+     justify-content: center;
+     aligh-items: center;
+    height:700 px,
+    margin:0
+    }
+    button{
+    background-color:#64A712;
+    font-family:"bai janjuree"; sansserif
+    }
+    -passa{
+     display: none;
+    }
+    -passo-ativo{
+     display: block;
+    }
+    main{
+    text-align: center,alinhamento do teto
+    max-width90%,largura maxima do menu
+    }
+    img{
+    max-width: 90%,largura maxima da imagem
+    }
